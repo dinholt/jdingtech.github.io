@@ -375,10 +375,10 @@ table.imgtable, table.imgtable td {
 	margin-left: 10px; /* 调整左边距以控制年份和文本之间的距离 */
 }
 
-.award-list {
-    list-style-type: square; /* 使用黑色矩形作为项目符号 */
+/* .award-list {
+    list-style-type: square; 
     padding: 0;
-  }
+  } */
 
 .award-item {
 	display: flex;
