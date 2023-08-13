@@ -365,3 +365,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.line-spacing {
+    margin-bottom: 10px; /* 调整为您需要的间距大小 */
+}
