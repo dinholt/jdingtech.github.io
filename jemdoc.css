@@ -390,5 +390,13 @@ table.imgtable, table.imgtable td {
 .award-year {
 	text-align: right;
 }
+
+.aligned-text {
+display: flex;
+justify-content: space-between;
+align-items: baseline;
+width: 100%;
+}
+
   
   
