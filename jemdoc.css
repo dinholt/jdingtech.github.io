@@ -373,6 +373,22 @@ table.imgtable, table.imgtable td {
 .year {
 	display: inline-block;
 	margin-left: 10px; /* 调整左边距以控制年份和文本之间的距离 */
-  }
+}
+
+.award-list {
+	list-style: none;
+	padding: 0;
+}
+
+.award-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.award-year {
+	text-align: right;
+}
   
   
