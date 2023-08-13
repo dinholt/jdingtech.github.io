@@ -380,12 +380,12 @@ table.imgtable, table.imgtable td {
     padding: 0;
   } */
 
-.award-item {
+/* .award-item {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
 	margin-bottom: 10px;
-}
+} */
 
 .award-year {
 	text-align: right;
