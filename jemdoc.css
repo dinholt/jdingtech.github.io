@@ -368,7 +368,9 @@ table.imgtable, table.imgtable td {
 
 .line-spacing {
     margin-bottom: 12px; /* 调整为您需要的间距大小 */
+	margin-top: 12px; /* 增大文本与上面横线的距离 */
 }
+
 
 .year {
 	display: inline-block;
@@ -398,5 +400,20 @@ align-items: baseline;
 width: 100%;
 }
 
-  
+.image-container {
+	display: flex;
+	justify-content: center; 
+    align-items: center;
+    border-bottom: 1px solid #aaaaaa; /* 添加底部边框样式 */
+    padding-bottom: 10px; /* 为底部留出一些间距 */
+}
+
+.image {
+display: inline-block;
+max-width: 100%;
+}
+
+.image-spacing {
+    margin-right: 20px; /* 增加图片之间的右边距 */
+  }
   
