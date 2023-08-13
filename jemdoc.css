@@ -367,7 +367,7 @@ table.imgtable, table.imgtable td {
 }
 
 .line-spacing {
-    margin-bottom: 15px; /* 调整为您需要的间距大小 */
+    margin-bottom: 12px; /* 调整为您需要的间距大小 */
 }
 
 .year {
@@ -376,9 +376,9 @@ table.imgtable, table.imgtable td {
 }
 
 .award-list {
-	list-style: none;
-	padding: 0;
-}
+    list-style-type: square; /* 使用黑色矩形作为项目符号 */
+    padding: 0;
+  }
 
 .award-item {
 	display: flex;
